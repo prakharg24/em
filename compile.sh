@@ -1,0 +1,1 @@
+g++ -o exp_max startup_code.cpp
